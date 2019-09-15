@@ -6,7 +6,24 @@
 [en]
   languageCode = "en-us"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-
+  title = "Title of the site"
+  [en.params]
+    description = "Description"
+    [[en.menu.main]]
+      name = "Wo"
+      url = "#about"
+      weight = 1
+  
+[fr]
+  languageCode = "fr-fr"
+  contentDir = "content/fr"
+  title = "SynergyExport"
+  [fr.params]
+    description = "Relevez de nouveaux défis!"
+    [[fr.menu.main]]
+      name = "Wo"
+      url = "#about"
+      weight = 1
 
 [ru]
   languageCode = "ru-ru"
