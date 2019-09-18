@@ -53,6 +53,8 @@ La cabine est spacieuse 1.35 m de largeur aux épaules, 0.20 m de plus qu’un R
 Le tableau de bord est très complet et permet de faire de la formation.Les doubles commandes sont classiques à chacun son manche, il faut aussi apprécier la qualité de l’usinage des différentes pièces.
 La visite pré vol est facile, tous les points sont visibles sans démontage même les jauges à huile ont des lunettes transparentes.
 
+![Vue de l'interieur](001.jpg)
+
 ## CARACTERISTIQUES PRINCIPALES
 
 - Diamètre rotor principal 6.84 m
@@ -67,12 +69,16 @@ La visite pré vol est facile, tous les points sont visibles sans démontage mê
 - Masse à vide 398 Kg
 - Capacité réservoir 72 L
 
+![Vue de l'interieur](002.jpg)
+
 ## MOTORISATION
 
 - Subaru EJ-25, 4 cyl. refroidis par eau
 - Puissance 156 Hp à 5200 tr/m
 - Carburant SP 95
 - Consommation 28 à 32 litres
+
+![Vue de l'interieur](003.jpg)
 
 ## PERFORMANCES
 
@@ -93,5 +99,5 @@ La visite pré vol est facile, tous les points sont visibles sans démontage mê
 - Eclairage instruments
 - Radios VHF Transpondeur
 
-{{# < video src="Aerocopter_AK1-3.mp4" controls="yes" > #}}
-![Vue de l'interieur](aerocopter_AK1-3_1.jpg)
+{{< video src="video.mp4" controls="yes" >}}
+
