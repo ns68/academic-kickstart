@@ -22,7 +22,7 @@ slug: Aerocopter Biplace AK1-3
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 3
-  caption: '[Lhélicoptère biplace fabriqué en Ukraine](#)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
