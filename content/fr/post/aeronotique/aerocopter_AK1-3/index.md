@@ -100,4 +100,3 @@ La visite pré vol est facile, tous les points sont visibles sans démontage mê
 - Radios VHF Transpondeur
 
 {{< video src="video.mp4" controls="yes" >}}
-

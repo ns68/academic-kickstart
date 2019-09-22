@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "L'export pour les PME"
+title = "Aerocopter AK1-3"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+hero_media = "cover.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,8 +17,8 @@ hero_media = "hero-academic.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#E9FCFE"
-  
+  # color = "#E9FCFE"
+  color = "#000"
   # Background gradient.
   # gradient_start = "#4bb4e3"
   # gradient_end = "#2b94c3"
@@ -28,24 +28,21 @@ hero_media = "hero-academic.png"
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true
+  text_color_light = true
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Trouvez un expert"
+  url = "https://calendly.com/nicolas-smakhtin/"
+  label = "Un test-flight en France"
   icon_pack = "fas"
   icon = ""
   
-[cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "En savoir plus"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="" href="https://calendly.com/nicolas-smakhtin">Prendre un rendez-vous</a>'
+  label = '<a class="" href="https://calendly.com/nicolas-smakhtin">Support commercial et téchnique</a>'
 +++
 
-Une expertise en matière d'exportation, proposer des solutions personnalisées et en assurer le suivi.
+Un helicoptère biplace ultra-legèr fabriqué en Ukraine

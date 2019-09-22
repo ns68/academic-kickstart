@@ -17,50 +17,46 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Les besoins"
+  name = "PERFORMANCE"
   description = """
-                <li>Etude d'existant</li>
-                <li>Planification</li>
-                <li>Calendrier</li>
+                <li>Vitesse maximum VNE 186 Km/h</li>
+                <li>Vitesse de croisière 160 Km/h</li>
+                <li>Taux de montée maximum 8.5 m/s</li>
+                <li>Distance parcourue ~ 350 km</li>
+                <li>Plafond dynamique 3000 m</li>
+
                 """
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Prospection"
+  name = "CARACTERISTIQUES PRINCIPALES"
   description = """
-                <li>Prospection</li>
-                <li>Contacts</li>
-                <li>Gestion du projet</li>
-                <li>Douane</li>
+                <li>Diamètre rotor principal 6.84 m</li>
+                <li>Nombre de pales 3</li>
+                <li>Diamètre rotor de queue 1.29 m</li>
+                <li>Nombre de pales 2</li>
+                <li>Longueur rotor tournant 8.10 m</li>
+                <li>Longueur sans pales 5.67 m</li>
+                <li>Largeur sans pales 1.35 m</li>
+                <li>Hauteur total 2.27 m</li>
+                <li>Masse maximale 650 Kg</li>
+                <li>Masse à vide 398 Kg</li>
+                <li>Capacité réservoir 72 L</li>
                 
                 """  
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Exportation"
+  name = "MOTORISATION"
   description = """
-                <li>Transport</li>
-                <li>Pilotage</li>
-                
-                """
-
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Exportation"
-  description = """
-                
-                <li>Analyse du fonctionnement</li>
-                <li>Élaboration d'un diagnostic</li> 
-                <li>Propositions</li>
-                <li>Manifestions de communication</li> 
-                <li>Travailler en réseau</li>
-                :heart:
+                <li>Subaru EJ-25, 4 cyl. refroidis par eau</li>
+                <li>Puissance 156 Hp à 5200 tr/m</li>
+                <li>Carburant SP 95</li>
+                <li>Consommation 28 à 32 litres</li>
                 
                 """
 
 +++
 
-[RUSSIE](post/pays/russie) | [UKRAINE](post/pays/ukraine)
