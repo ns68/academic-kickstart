@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Hélicoptères
 
 # View.
 #   1 = List
