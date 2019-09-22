@@ -35,7 +35,7 @@ hero_media = "cover.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://calendly.com/synergy-export"
-  label = "Réservez un test-flight en France"
+  label = "Réservez un test-flight"
   icon_pack = "fas"
   icon = ""
   
