@@ -15,46 +15,49 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "chart-line"
+  icon = "helicopter"
   icon_pack = "fas"
-  name = "PERFORMANCE"
+  name = "<b>PERFORMANCE</b>"
   description = """
-                <li>Vitesse maximum VNE 186 Km/h</li>
-                <li>Vitesse de croisière 160 Km/h</li>
-                <li>Taux de montée maximum 8.5 m/s</li>
-                <li>Distance parcourue ~ 350 km</li>
-                <li>Plafond dynamique 3000 m</li>
+                <br>
+                - Vitesse maximum VNE <b>186</b> Km/h<br>
+                - Vitesse de croisière <b>160</b> Km/h<br>
+                - Taux de montée maximum <b>8.5</b> m/s<br>
+                - Distance parcourue <b>~ 350</b> km<br>
+                - Plafond dynamique <b>3000</b> m<br>
 
                 """
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "CARACTERISTIQUES PRINCIPALES"
+  name = "<b>CARACTERISTIQUES PRINCIPALES</b>"
   description = """
-                <li>Diamètre rotor principal 6.84 m</li>
-                <li>Nombre de pales 3</li>
-                <li>Diamètre rotor de queue 1.29 m</li>
-                <li>Nombre de pales 2</li>
-                <li>Longueur rotor tournant 8.10 m</li>
-                <li>Longueur sans pales 5.67 m</li>
-                <li>Largeur sans pales 1.35 m</li>
-                <li>Hauteur total 2.27 m</li>
-                <li>Masse maximale 650 Kg</li>
-                <li>Masse à vide 398 Kg</li>
-                <li>Capacité réservoir 72 L</li>
+                <br>
+                - Diamètre rotor principal <b>6.84 m</b><br>
+                - Nombre de pales <b>3</b><br>
+                - Diamètre rotor de queue <b>1.29</b> m<br>
+                - Nombre de pales <b>2</b><br>
+                - Longueur rotor tournant <b>8.10</b> m<br>
+                - Longueur sans pales <b>5.67</b> m<br>
+                - Largeur sans pales <b>1.35</b> m<br>
+                - Hauteur total <b>2.27</b> m<br>
+                - Masse maximale <b>650</b> Kg<br>
+                - Masse à vide <b>398</b> Kg<br>
+                - Capacité réservoir <b>72</b> L<br>
                 
                 """  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "battery-full"
   icon_pack = "fas"
-  name = "MOTORISATION"
+  name = "<b>MOTORISATION</b>"
   description = """
-                <li>Subaru EJ-25, 4 cyl. refroidis par eau</li>
-                <li>Puissance 156 Hp à 5200 tr/m</li>
-                <li>Carburant SP 95</li>
-                <li>Consommation 28 à 32 litres</li>
+                <br>
+                - <b>Subaru EJ-25</b>, 4 cyl. refroidis par eau<br>
+                - Puissance <b>156</b> Hp à <b>5200</b> tr/m<br>
+                - Carburant <b>SP 95</b><br>
+                - Consommation <b>28</b> à <b>32</b> litres
                 
                 """
 

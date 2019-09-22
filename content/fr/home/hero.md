@@ -35,14 +35,14 @@ hero_media = "cover.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://calendly.com/nicolas-smakhtin/"
-  label = "Un test-flight en France"
+  label = "Réservez un test-flight en France"
   icon_pack = "fas"
   icon = ""
   
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="" href="https://calendly.com/nicolas-smakhtin">Support commercial et téchnique</a>'
+  label = '<a class="" href="https://calendly.com/synergy-export">Support commercial et téchnique</a>'
 +++
 
 Un helicoptère biplace ultra-legèr fabriqué en Ukraine

@@ -53,7 +53,7 @@ La cabine est spacieuse 1.35 m de largeur aux épaules, 0.20 m de plus qu’un R
 Le tableau de bord est très complet et permet de faire de la formation.Les doubles commandes sont classiques à chacun son manche, il faut aussi apprécier la qualité de l’usinage des différentes pièces.
 La visite pré vol est facile, tous les points sont visibles sans démontage même les jauges à huile ont des lunettes transparentes.
 
-![Vue de l'interieur](001.jpg)
+![Vue de l'interieur](img/001.jpg)
 
 ## CARACTERISTIQUES PRINCIPALES
 
@@ -69,7 +69,7 @@ La visite pré vol est facile, tous les points sont visibles sans démontage mê
 - Masse à vide 398 Kg
 - Capacité réservoir 72 L
 
-![Vue de l'interieur](002.jpg)
+![Vue de l'interieur](img/002.jpg)
 
 ## MOTORISATION
 
@@ -78,7 +78,7 @@ La visite pré vol est facile, tous les points sont visibles sans démontage mê
 - Carburant SP 95
 - Consommation 28 à 32 litres
 
-![Vue de l'interieur](003.jpg)
+![Vue de l'interieur](img/003.jpg)
 
 ## PERFORMANCES
 
