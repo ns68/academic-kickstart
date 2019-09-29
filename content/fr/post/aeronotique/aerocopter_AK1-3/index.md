@@ -1,6 +1,6 @@
 ---
-title: 'Aerocopter AK1-3'
-subtitle: 'Un hélicoptère biplace ukranien léger, maniable et performant :rocket:'
+title: "Aerocopter AK1-3 - un hélico biplace fiable, maniable et pérformant"
+subtitle: "Sur le marché de l'aviation civile depuis 22 ans :rocket:"
 summary: 
 authors:
 - SynergyExport
