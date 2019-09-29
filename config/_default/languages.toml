@@ -6,7 +6,7 @@
   [fr]
   languageCode = "fr"
   contentDir = "content/fr"
-  title = "SynergyExport"
+  title = "Private aviation, helicopters and aircraft spare parts | SynergyExport"
   [fr.params]
     description = "Relevez de nouveaux défis!"
     [[fr.menu.main]]
