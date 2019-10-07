@@ -13,3 +13,15 @@
       name = "Wo"
       url = "#about"
       weight = 1
+
+[en]
+  languageCode = "en"
+  contentDir = "content/en"
+  title = "Private aviation, helicopters and aircraft spare parts | SynergyExport"
+  [en.params]
+    description = ""
+    [[en.menu.main]]
+      name = "Wo"
+      url = "#about"
+      weight = 1
+

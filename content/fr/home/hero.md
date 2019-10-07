@@ -42,7 +42,7 @@ hero_media = "cover.jpg"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="" href="https://calendly.com/synergy-export">Support commercial et téchnique</a>'
+  label = '<a class="" href="#contact">Contactez-nous pour plus d`informations</a>'
 +++
 
 Un hélicoptère biplace ultra-léger fabriqué en Ukraine
