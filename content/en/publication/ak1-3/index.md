@@ -60,21 +60,20 @@ slides: ""
 
 #### Ukrainian helicopter AK1-3
 
-The helicopter **AK1-3** was designed in **Ukraine** by aeronautics professionals with the participation of the National University of Kremenchug, after an analysis of what was being done in the world in terms of two-seater helicopters.
+The **AK1-3** helicopter was designed in Ukraine by aviation specialists with the participation of the Kremenchug National University. The company "Aerokopter" exists since 1996, this year it was 23 years old.
 
-Everything is done in a very rational, efficient and solid way. Its design complies with international standards **JAR 27**. We are not looking for an ultra lightweight, but in a balance of efficiency and reliability.
+The helicopter is effective, reliable and economical. Its design complies with international standards.
 
-Built since 2003 with nearly 100 units and several thousand flight hours, the **AK1-3** has proven its reliability.
+To date, more than 100 vehicles have been produced in 21 countries around the world. They have already flown several thousand hours and proved themselves perfectly both in hot countries and in countries with cold climate. 
 
-The experience gained allows for good monitoring and shows that use within the limits of the flight manual makes it a very reliable machine that does not require complicated or very expensive maintenance.
-The cost of the flight hour is between 170€ and 200€ depending on the number of hours stolen annually and the choice of insurance.
+Experience has shown that the use of the **AK1-3** in flight schools allows future pilots to quickly and effectively master the skills of piloting. The helicopter does not require complicated or very expensive maintenance. The cost of a flight hour is only about 60€ depending on the number of hours in the air. It is worth reminding that the **AK1-3** is refueled with conventional SP95 gasoline and thus allows you to reduce the cost of refueling by 4 times compared to traditional aviation fuel. Consumption is about 24-35 l.h., which is lower than its concurents in this class of helicopters (R 22 BETA II, SCHWEIZER 300C, ROTORWAY).
 
-It is a three-bladed machine that makes it very manoeuvrable and precise, the efficiency of the rotor is surprising, associated with the **SUBARU 156 hp** engine (it sends).
+It is a three-blades machine that makes it very manoeuvrable, stable and extremely precise. The efficiency of the rotor is amazing. This is due to the use of the famous **SUBARU 156 hp** engine.
 
-The cabin is spacious with a width of 1.35 m at the shoulders, 0.20 m more than an R 22. The bubble offers a great visibility of 220°.
+The spacious cabin is **1.35 m** wide by 20 cm more than the R 22. The cabine has an excellent 220° visibility.
 
-The dashboard is very complete and allows you to do training, the double controls are classic for each handle, you also have to appreciate the quality of the machining of the different parts.
-The pre-flight inspection is easy, all points are visible without disassembly even the oil dipsticks have transparent glasses.
+The dashboard has all the necessary tools that allow you to train beginners.
+
 
 ![Inside view](001.jpg)
 
