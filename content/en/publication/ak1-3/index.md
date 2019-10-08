@@ -64,7 +64,7 @@ The **AK1-3** helicopter was designed in Ukraine by aviation specialists with th
 
 The helicopter is effective, reliable and economical. Its design complies with international standards.
 
-To date, more than 100 vehicles have been produced in 21 countries around the world. They have already flown several thousand hours and proved themselves perfectly both in hot countries and in countries with cold climate. 
+To date, more than 100 vehicles have been produced in 21 countries around the world. They have already flown several thousand hours and proved themselves perfectly both in hot countries and in countries with cold climate.
 
 Experience has shown that the use of the **AK1-3** in flight schools allows future pilots to quickly and effectively master the skills of piloting. The helicopter does not require complicated or very expensive maintenance. The cost of a flight hour is only about 60€ depending on the number of hours in the air. It is worth reminding that the **AK1-3** is refueled with conventional SP95 gasoline and thus allows you to reduce the cost of refueling by 4 times compared to traditional aviation fuel. Consumption is about 24-35 l.h., which is lower than its concurents in this class of helicopters (R 22 BETA II, SCHWEIZER 300C, ROTORWAY).
 
@@ -73,7 +73,6 @@ It is a three-blades machine that makes it very manoeuvrable, stable and extreme
 The spacious cabin is **1.35 m** wide by 20 cm more than the R 22. The cabine has an excellent 220° visibility.
 
 The dashboard has all the necessary tools that allow you to train beginners.
-
 
 ![Inside view](001.jpg)
 
