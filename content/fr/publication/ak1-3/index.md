@@ -60,21 +60,21 @@ slides: ""
 
 ### L'hélicoptère Ukranien AK1-3
 
-L’hélicoptère **AK1-3** a été conçu en **Ukraine** par des professionnels de l’aéronautique avec la participation de l’Université Nationale de Krementchoug, après une analyse de ce qui se faisait dans le monde en matière d’hélicoptère Biplace.
+Hélicoptère ukrainien AK1-3
 
-Tout est réalisé de façon très rationnelle, efficace et solide. Sa conception répond aux normes internationales **JAR 27**. Nous ne sommes pas dans la recherche d’un ultra léger, mais dans un équilibre d’efficacité et de fiabilité.
+L'hélicoptère **AK1-3** a été conçu en Ukraine par des ingénieurs de l'aviation avec la participation de l'Université Nationale de Kremenchug. La société "Aerokopter" existe depuis 1996, cette année elle a fêté ses 23 ans.
 
-Construit depuis 2003 à bientôt 100 exemplaires et plusieurs milliers d’heures de vols, l’**AK1-3** a démontré sa fiabilité.
+L'hélicoptère est efficace, fiable et économique et sa conception est conforme aux normes internationales.
 
-L’expérience acquise permet un bon suivi et démontre qu’un usage dans les limites du manuel de vol en fait une machine très fiable qui ne nécessite pas un entretien compliqué ni très couteux.
-Le coût de l’heure de vol se situe entre 170€ et 200€ suivant le nombre d’heures volé annuellement et le choix de l’assurance.
+A ce jour, plus de **100** exemplaires volent  dans 21 pays à travers le monde. Ils ont déjà accumulé plusieurs milliers d'heures de vol et ont fait leurs preuves aussi bien dans les pays chauds que dans les pays au climat froid.
 
-C’est un tripale qui le rend très maniable et précis, l’efficacité du rotor est surprenante, associé au moteur **SUBARU 156 hp** (ça envoie).
+L'expérience a montré que l'utilisation de l'**AK1-3** dans les écoles de pilotage permet aux futurs pilotes de maîtriser rapidement et efficacement un hélicoptère. Il ne nécessite pas d'entretien compliqué ou très onéreux. Par exemple, le prix d'une heure de vol n'est que d'environ 60€ selon le nombre d'heures de vol. Rappelons que l'**AK1-3** est ravitaillé en essence classique SP95 et vous permet ainsi de réduire de **4** fois le coût du ravitaillement par rapport au carburant aéronautique traditionnel. La consommation est de 24-35 l.h., ce qui est inférieur par rapport à ses concurants (R 22 BETA II, SCHWEIZER 300C, ROTORWAY).
 
-La cabine est spacieuse 1.35 m de largeur aux épaules, 0.20 m de plus qu’un R 22. La bulle offre une visibilité formidable sur 220°.
+C'est une machine à trois pales qui la rend très maniable, stable et extrêmement précise. L'efficacité du rotor est étonnante. Ceci est dû à l'utilisation du célèbre moteur **SUBARU de 156 ch**.
 
-Le tableau de bord est très complet et permet de faire de la formation.Les doubles commandes sont classiques à chacun son manche, il faut aussi apprécier la qualité de l’usinage des différentes pièces.
-La visite pré vol est facile, tous les points sont visibles sans démontage même les jauges à huile ont des lunettes transparentes.
+La cabine spacieuse mesure **1,35 m** de large sur 20 cm de plus que le R 22. La cabine offre une excellente visibilité à 220°.
+
+Le tableau de bord dispose de tous les outils nécessaires pour vous permettre de former des pilotes débutants.
 
 ![Vue de l'interieur](001.jpg)
 
